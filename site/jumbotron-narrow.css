@@ -70,10 +70,27 @@ body {
   }
   /* Space out the masthead */
   .header {
-    margin-bottom: 30px;
+    margin-bottom: 20px;
   }
   /* Remove the bottom border on the jumbotron for visual effect */
   .jumbotron {
     border-bottom: 0;
   }
+}
+.row-table {
+  margin-top: 20px;
+}
+/* select 1-st row */
+.table-strong {
+  font-weight: bold;
+}
+
+ .col-lg-12 {
+   margin-bottom: 20px;
+
+
+ }
+
+.input-group .form {
+  color: red;
 }
